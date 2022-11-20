@@ -132,7 +132,7 @@ void buttonPressed(String buttonName) {
   }
 
   else if (buttonName == 'ROUTE') {
-    UrlLauncher.launch('https://www.google.com/maps/search/?api=1&query=Oeschinen+Lake+Campground');
+    UrlLauncher.launch('https://www.google.com/maps/search/?api=1&query=Oeschinen+Lake');
   }
 
   else if (buttonName == 'SHARE') {
