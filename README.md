@@ -1,4 +1,4 @@
-# assignment2
+# SOFE4640U - Assignment2
 
 Abdul Bhutta
 100785884
