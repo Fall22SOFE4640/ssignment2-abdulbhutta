@@ -1,16 +1,24 @@
 # assignment2
 
-A new Flutter project.
+Abdul Bhutta
+100785884
 
-## Getting Started
+Added functionality to the call, route, and share button.
 
-This project is a starting point for a Flutter application.
+## Functionality 
 
-A few resources to get you started if this is your first Flutter project:
+### Favourite Button
+<img src="https://github.com/Fall22SOFE4640/ssignment2-abdulbhutta/blob/main/ScreenRecording/Favourite.gif" width="300" height="600">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Call Button
+<img src="https://github.com/Fall22SOFE4640/ssignment2-abdulbhutta/blob/main/ScreenRecording/Call.gif" width="300" height="600">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Route Button
+<img src="https://github.com/Fall22SOFE4640/ssignment2-abdulbhutta/blob/main/ScreenRecording/Route.gif" width="300" height="600">
+
+### Share Button
+<img src="https://github.com/Fall22SOFE4640/ssignment2-abdulbhutta/blob/main/ScreenRecording/Share.gif" width="300" height="600">
+
+
+
+
